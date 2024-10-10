@@ -23,12 +23,22 @@ body{
 
 .btn{
     border: none;
-    padding: 8px 20px;
+    padding: 8px 25px;
     border-radius: 5px;
+    font-weight: bold;
 }
 
 .btn-group{
     display: flex;
     justify-content: space-around;
     cursor: pointer;
+}
+
+.btn-on{
+    background-color: #ffff4d;
+}
+
+.btn-off{
+    background-color: black;
+    color: #fff;
 }
