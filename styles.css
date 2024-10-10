@@ -1,13 +1,19 @@
+body{
+    background-color: #29293d;
+}
+
 .container{
     margin: 20px auto;
-    width: 300px;
+    width: 400px;
     background-color:#8585ad;
+    padding: 20px;
+    border-radius: 10px;
 }
 
 #bulb{
     width:80%;
     display: block;
-    margin:20px auto;
+    margin:30px auto;
 }
 
 .app-heading{
