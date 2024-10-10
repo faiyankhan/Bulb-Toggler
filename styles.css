@@ -20,3 +20,15 @@ body{
     color: #fff;
     text-align: center;
 }
+
+.btn{
+    border: none;
+    padding: 8px 20px;
+    border-radius: 5px;
+}
+
+.btn-group{
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+}
