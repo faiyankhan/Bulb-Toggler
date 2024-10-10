@@ -1,0 +1,16 @@
+.container{
+    margin: 20px auto;
+    width: 300px;
+    background-color:#8585ad;
+}
+
+#bulb{
+    width:80%;
+    display: block;
+    margin:20px auto;
+}
+
+.app-heading{
+    color: #fff;
+    text-align: center;
+}
