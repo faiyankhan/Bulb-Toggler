@@ -10,4 +10,4 @@ function on() {
 
     const headingElement = document.getElementById('heading');
     headingElement.style.color = 'black';
-}
+}   
