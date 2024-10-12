@@ -19,4 +19,8 @@ function off(){
     const bodyElement = document.getElementById('body');
     bodyElement.style.backgroundColor = '#29293d';
 
+    const containerElement = document.getElementById('container');
+    containerElement.style.backgroundColor = '#8585ad';
+
+
 }
