@@ -22,5 +22,7 @@ function off(){
     const containerElement = document.getElementById('container');
     containerElement.style.backgroundColor = '#8585ad';
 
+    const headingElement = document.getElementById('heading');
+    headingElement.style.color = '#fff';
 
 }
