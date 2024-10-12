@@ -35,10 +35,16 @@ body{
 }
 
 .btn-on{
-    background-color: #ffff4d;
+    background-color: #ffff33;
 }
 
 .btn-off{
     background-color: black;
     color: #fff;
+}
+
+.btn-on:hover{
+    border-radius: 20px;
+    transition: 1s;
+    background-color: #fff;
 }
