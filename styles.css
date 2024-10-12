@@ -47,6 +47,7 @@ body{
     border-radius: 20px;
     transition: 1s;
     background-color: #fff;
+    border: 2px solid black;
 }
 
 .btn-off:hover{
@@ -54,4 +55,5 @@ body{
     transition: 1s;
     color: black;
     background-color: #fff;
+    border: 2px solid black;
 }
