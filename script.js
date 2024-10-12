@@ -15,4 +15,8 @@ function on() {
 function off(){
     const bulbImgElement = document.getElementById('bulb');
     bulbImgElement.src = 'bulb-off.png';
+
+    const bodyElement = document.getElementById('body');
+    bodyElement.style.backgroundColor = '#29293d';
+
 }
