@@ -11,3 +11,8 @@ function on() {
     const headingElement = document.getElementById('heading');
     headingElement.style.color = 'black';
 }   
+
+function off(){
+    const bulbImgElement = document.getElementById('bulb');
+    bulbImgElement.src = 'bulb-off.png';
+}
