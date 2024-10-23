@@ -9,7 +9,11 @@ The Bulb Toggler is a fun and interactive project that lets you control a virtua
 - User-friendly interface.
 - Real-time visual feedback.
 
-## Technologies Used
+## Technologies Used :
 - HTML
 - CSS
 - JavaScript
+
+## How to Use :
+- Click the "Toggle Bulb" button to turn the bulb on or off.
+- The bulb image will change according to the current state (on/off).
